@@ -3,10 +3,10 @@
 
 This website is designed to help high school graduates choose their specialization. The system provides a set of tools to assist in determining the most suitable specialization based on the student's interests and academic results.
 
-Features
+Features:
+
 User-friendly Interface
 AI Assistant
-ع
 
 ## Prerequisites
 To run this project, ensure you have the following:
