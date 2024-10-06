@@ -3,7 +3,7 @@ from django.shortcuts import render, redirect
 from .forms import QuestionnaireForm
 from .models import Questionnaire
 
-genai.configure(api_key="AIzaSyAz3zwYcagTVnPyJvIlexivk1z1K84G6oc")
+genai.configure(api_key="The API KEY HERE")
 
 model = genai.GenerativeModel(
     model_name="gemini-1.0-pro",
